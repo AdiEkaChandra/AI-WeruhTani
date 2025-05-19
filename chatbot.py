@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = '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'  # Ganti dengan API Key OpenRouter kamu
+API_KEY = ''  # Ganti dengan API Key OpenRouter kamu
 
 def is_allowed_topic(user_input):
     allowed_keywords = ['pertanian', 'ilmu pertanian', 'teknologi pertanian', 'ekonomi pertanian', 'agriculture', 'farming']

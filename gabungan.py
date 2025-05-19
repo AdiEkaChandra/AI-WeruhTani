@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 
 # ============================ Konfigurasi API ============================
-API_KEY = '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'
+API_KEY = ''
 MODEL_ID = 'mistralai/mixtral-8x7b-instruct'  
 
 # ============================ Topik Pertanian ============================
