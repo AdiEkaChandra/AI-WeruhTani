@@ -14,7 +14,7 @@ app = Flask(__name__)
 CORS(app)
 
 # ============================ Konfigurasi API ============================
-API_KEY = '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'  # ← Isi API key OpenRouter kamu di sini
+API_KEY = ''  # ← Isi API key OpenRouter kamu di sini
 MODEL_ID = 'deepseek/deepseek-r1-0528-qwen3-8b:free'
 
 # ============================ Topik Pertanian ============================
